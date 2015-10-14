@@ -1,4 +1,2 @@
 # portfolio
-Portfolio code samples
-
-- Rasmus F. Hansen
+Code samples by Rasmus F. Hansen
